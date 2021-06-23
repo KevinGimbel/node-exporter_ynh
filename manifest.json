@@ -26,6 +26,14 @@
     ],
     "arguments": {
         "install" : [
+            {
+                "name": "meme",
+                "type": "string",
+                "ask": {
+                    "en": "Choisissez votre meme préféré",
+                    "fr": "Choose your favorite meme"
+                }
+            }
         ]
     }
 }

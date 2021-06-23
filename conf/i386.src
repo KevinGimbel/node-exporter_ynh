@@ -1,0 +1,7 @@
+SOURCE_URL=https://github.com/prometheus/node_exporter/releases/download/v1.1.2/node_exporter-1.1.2.linux-386.tar.gz
+SOURCE_SUM=5b0195e203dedd3a8973cd1894a55097554a4af6d8f4f0614c2c67d6670ea8ae
+SOURCE_SUM_PRG=sha256sum
+SOURCE_FORMAT=tar.gz
+SOURCE_IN_SUBDIR=true
+SOURCE_FILENAME=node_exporter-1.1.2.linux-386.tar.gz
+SOURCE_EXTRACT=true

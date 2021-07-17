@@ -9,7 +9,7 @@ If you don't have YunoHost, please consult [the guide](https://yunohost.org/#/in
 
 A package to attach yunohost instance to a prometheus instance
 
-**Shipped version:** 1.2.2~ynh1
+**Shipped version:** 1.2.0~ynh1
 
 
 

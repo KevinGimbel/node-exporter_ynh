@@ -6,7 +6,7 @@
         "en": "Node exporter for prometheus",
         "fr": "Node exporter pour prometheus"
     },
-    "version": "1.2.0~ynh1",
+    "version": "1.5.0~ynh1",
     "url": "https://prometheus.io/docs/guides/node-exporter/",
     "upstream": {
         "license": "Apache 2.0",
@@ -15,8 +15,8 @@
     },
     "license": "free",
     "maintainer": {
-        "name": "llaq",
-        "email": "contact@lelibreauquotidien.fr"
+        "name": "kevin",
+        "email": "kevin@gimbel.dev"
     },
     "requirements": {
         "yunohost": ">= 4.1.3"

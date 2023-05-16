@@ -11,7 +11,7 @@ If you don't have YunoHost, please consult [the guide](https://yunohost.org/#/in
 A package to attach yunohost instance to a prometheus instance
 Une app pour attacher une instance de yunohost sur une instance de prometheus
 
-**Version incluse:** 1.2.0~ynh1
+**Version incluse:** 1.5.0~ynh1
 
 
 ## Documentations et ressources
